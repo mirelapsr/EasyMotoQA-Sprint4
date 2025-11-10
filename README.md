@@ -3,8 +3,6 @@
 # 🧭 Sprint 4 — Gestão Ágil (SCRUM)
 ## ✅ Links 
 - Azure Devops: https://dev.azure.com/RM558191/EasyMoto
-- Youtube
-
 
 ## 📌 Objetivo
 Aplicar o framework **SCRUM** no projeto **EasyMoto**, estruturando o backlog no **Azure DevOps Boards** conforme as orientações do **Challenge 2025 – 2º Semestre**.
@@ -60,9 +58,6 @@ Foram planejados e registrados os seguintes casos de teste:
 22. Geração de arquivo JSON  
 23. Importação Mongo  
 > ✅ Todos os Test Cases foram documentados no **Azure Boards**, com entradas, saídas e resultados esperados conforme o **plano de release** da Sprint 4.
-
-# Postman
-
 
 📘 Projeto: *EasyMoto – Challenge 2025 (Sprint 4)*  
 
