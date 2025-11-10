@@ -68,4 +68,5 @@ Foram planejados e registrados os seguintes casos de teste:
 
 👩‍💻 Integrantes:
 > Mirela Rodrigues - RM558191
+> 
 > Valéria Conceição dos Santos - RM557177
